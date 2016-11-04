@@ -1,0 +1,50 @@
+D:\Daniele\Programming\EncryptedChatTPI\EncryptedChatTPI\bin\Debug\EncryptedChatTPI.exe.config
+D:\Daniele\Programming\EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.exe
+D:\Daniele\Programming\EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.pdb
+D:\Daniele\Programming\EncryptedChatTPI\EncryptedChatTPI\bin\Debug\EncryptedChatTPI.exe
+D:\Daniele\Programming\EncryptedChatTPI\EncryptedChatTPI\bin\Debug\EncryptedChatTPI.pdb
+D:\Daniele\Programming\EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.Form1.resources
+D:\Daniele\Programming\EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.Properties.Resources.resources
+D:\Daniele\Programming\EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.csproj.GenerateResource.Cache
+Z:\pavesid\PROGETTO TPI CHAT\EncryptedChatTPI\EncryptedChatTPI\bin\Debug\EncryptedChatTPI.exe.config
+Z:\pavesid\PROGETTO TPI CHAT\EncryptedChatTPI\EncryptedChatTPI\bin\Debug\EncryptedChatTPI.exe
+Z:\pavesid\PROGETTO TPI CHAT\EncryptedChatTPI\EncryptedChatTPI\bin\Debug\EncryptedChatTPI.pdb
+Z:\pavesid\PROGETTO TPI CHAT\EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.Form1.resources
+Z:\pavesid\PROGETTO TPI CHAT\EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.Properties.Resources.resources
+Z:\pavesid\PROGETTO TPI CHAT\EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.csproj.GenerateResource.Cache
+Z:\pavesid\PROGETTO TPI CHAT\EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.exe
+Z:\pavesid\PROGETTO TPI CHAT\EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.pdb
+Z:\zorilai\EncryptedChatTPI\EncryptedChatTPI\bin\Debug\EncryptedChatTPI.exe.config
+Z:\zorilai\EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.exe
+Z:\zorilai\EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.pdb
+Z:\zorilai\EncryptedChatTPI\EncryptedChatTPI\bin\Debug\EncryptedChatTPI.exe
+Z:\zorilai\EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.Form1.resources
+Z:\zorilai\EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.Properties.Resources.resources
+Z:\zorilai\EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.csproj.GenerateResource.Cache
+Z:\zorilai\EncryptedChatTPI\EncryptedChatTPI\bin\Debug\EncryptedChatTPI.pdb
+Z:\pavesid\PROGETTO TPI CHAT\EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.csprojResolveAssemblyReference.cache
+D:\Daniele\Programming\!! EncryptedChatTPI\EncryptedChatTPI\bin\Debug\EncryptedChatTPI.exe.config
+D:\Daniele\Programming\!! EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.exe
+D:\Daniele\Programming\!! EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.pdb
+D:\Daniele\Programming\!! EncryptedChatTPI\EncryptedChatTPI\bin\Debug\EncryptedChatTPI.exe
+D:\Daniele\Programming\!! EncryptedChatTPI\EncryptedChatTPI\bin\Debug\EncryptedChatTPI.pdb
+D:\Daniele\Programming\!! EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.Form1.resources
+D:\Daniele\Programming\!! EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.Properties.Resources.resources
+D:\Daniele\Programming\!! EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.csproj.GenerateResource.Cache
+D:\Daniele\Programming\!! EncryptedChatTPI\EncryptedChatTPI\bin\Debug\en-US\EncryptedChatTPI.resources.dll
+D:\Daniele\Programming\!! EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.Form1.en-US.resources
+D:\Daniele\Programming\!! EncryptedChatTPI\EncryptedChatTPI\obj\Debug\en-US\EncryptedChatTPI.resources.dll
+Z:\pavesid\!! EncryptedChatTPI\EncryptedChatTPI\bin\Debug\EncryptedChatTPI.exe.config
+Z:\pavesid\!! EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.exe
+Z:\pavesid\!! EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.pdb
+Z:\pavesid\!! EncryptedChatTPI\EncryptedChatTPI\bin\Debug\EncryptedChatTPI.exe
+Z:\pavesid\!! EncryptedChatTPI\EncryptedChatTPI\bin\Debug\EncryptedChatTPI.pdb
+Z:\pavesid\!! EncryptedChatTPI\EncryptedChatTPI\bin\Debug\en-US\EncryptedChatTPI.resources.dll
+Z:\pavesid\!! EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.Form1.resources
+Z:\pavesid\!! EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.Properties.Resources.resources
+Z:\pavesid\!! EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.Form1.en-US.resources
+Z:\pavesid\!! EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.csproj.GenerateResource.Cache
+Z:\pavesid\!! EncryptedChatTPI\EncryptedChatTPI\obj\Debug\en-US\EncryptedChatTPI.resources.dll
+D:\Daniele\Programming\GitHub\!! EncryptedChatTPI\EncryptedChatTPI\bin\Debug\EncryptedChatTPI.exe.config
+D:\Daniele\Programming\GitHub\!! EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.exe
+D:\Daniele\Programming\GitHub\!! EncryptedChatTPI\EncryptedChatTPI\obj\Debug\EncryptedChatTPI.pdb
